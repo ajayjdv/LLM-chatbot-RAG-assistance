@@ -3,4 +3,4 @@ pillow
 streamlit
 torch==2.1.2
 transformers
-dotenv
+python-dotenv
