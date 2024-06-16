@@ -7,4 +7,4 @@ python-dotenv
 langchain-community==0.0.28
 langchain-openai==0.0.8
 langchain==0.1.11
-faiss==1.8.0
+
