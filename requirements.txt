@@ -4,3 +4,5 @@ streamlit
 torch==2.1.2
 transformers
 python-dotenv
+langchain-community
+faiss
