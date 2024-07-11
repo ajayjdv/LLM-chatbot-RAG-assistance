@@ -1,6 +1,10 @@
 ## LLM Chatbot with RAG Assistance
+![image](https://github.com/ajayjdv/LLM-chatbot-RAG-assistance/assets/169338278/474d9a82-0e7c-4d72-a7a2-d91d79290763)
+![image](https://github.com/ajayjdv/LLM-chatbot-RAG-assistance/assets/169338278/5be8e46c-4ce4-49ad-a2e6-b43b2da63966)
+![image](https://github.com/ajayjdv/LLM-chatbot-RAG-assistance/assets/169338278/2f767116-c100-4e50-8f0c-c5232cabc6d4)
+![image](https://github.com/ajayjdv/LLM-chatbot-RAG-assistance/assets/169338278/ff557e5a-449c-41d9-bd06-0da8f06c91cd)
 
-Introduction
+### Introduction
 This project demonstrates how to build a local open-source LLM chatbot using Retrieval-Augmented Generation (RAG) to enhance the capabilities of a Large Language Model (LLM). By integrating Google’s Gemma-2b-it model with Hugging Face transformers, LangChain, and the Faiss vector database, the chatbot can answer specific questions with the aid of uploaded PDF documents.
 
 Table of Contents
@@ -11,7 +15,6 @@ Table of Contents
 - [Architecture and Components](architecture-and-components)
 - [Configuration](configuration)
 - [Contributing](contributing)
-- [License](license)
 
 Features
 - Utilize Google’s Gemma-2b-it LLM model.
@@ -44,7 +47,8 @@ ACCESS_TOKEN=your_hugging_face_access_token
 
 Usage
 Start the Streamlit Application
-```bash streamlit run app.py
+```bash
+streamlit run app.py
 ```
 
 Interact with the Chatbot
