@@ -30,8 +30,8 @@ Prerequisites
 
 Clone the Repository
 ```bash
-git clone https://github.com/your-username/llm-chatbot-rag.git
-cd llm-chatbot-rag
+git clone https://github.com/ajayjdv/LLM-chatbot-RAG-assistance.git
+cd LLM-chatbot-RAG-assistance
 ```
 
 Install Dependencies
